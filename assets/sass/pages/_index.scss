@@ -1,0 +1,9 @@
+@use "../abstracts/variables";
+body{
+    margin: 0 90px;
+    background-color: variables.$background-color;
+}
+
+.navbar{
+    padding: 0 90px;
+}

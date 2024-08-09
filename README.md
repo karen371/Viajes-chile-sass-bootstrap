@@ -8,12 +8,13 @@ la maqueta utilizada para el desafio es la siguiente:
 
 # Instalacion de bootstrap
 
-Para la instalacion de bootstrap se trabajo desde la `cmd`, creando desde la carpteta hasta la instalación de bootstrap. Para ello se utilizaron los siguientes comandos.
+Para la instalacion de bootstrap se trabajo desde la `cmd`, creando desde la carpteta hasta la instalación de bootstrap. Para ello se utilizaron los siguientes comandos:
 
-**mkdir "viajes chile"**
-**cd viajes chile**
-**npm init -y**
-**npm install bootstrap**
+1-**mkdir "viajes chile"**
+2-**cd viajes chile**
+3-**npm init -y**
+4-**npm install bootstrap**
 
+con esto hemos instalado bootstrap en nuestro proyecto
 
 
